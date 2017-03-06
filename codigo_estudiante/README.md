@@ -59,6 +59,7 @@ Captura asociada a la activación del contenedor debían, me faltó tomarle capt
 
 Bibliografía.
 https://cmdchallenge.com/#/last_lines
+
 http://www.tecmint.com/install-create-run-lxc-linux-containers-on-centos/
 
 
